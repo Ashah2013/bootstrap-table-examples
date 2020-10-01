@@ -9,7 +9,7 @@ JS functions to allow natural sorting on bootstrap-table columns.
 <script src="natural-sorting.js"></script>
 ```
 
-add a data-sorter atribute to any th.
+add a data-sorter atribute to any these.
 *e.g.*
 
 ```html
